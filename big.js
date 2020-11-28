@@ -8,11 +8,13 @@ function count_sal() {
   var b = a * 8;
   var c = a * hours * 1.5;
   var d = sal + c;
+  	var e = a / 60;
 
   document.getElementById('result_a').innerHTML = a;
   document.getElementById('result_b').innerHTML = b;
-	document.getElementById('result_с').innerHTML = c;
+  document.getElementById('result_с').innerHTML = c;
   document.getElementById('result_d').innerHTML = d;
+  	document.getElementById('result_e').innerHTML = e;
 
 
 
