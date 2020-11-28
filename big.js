@@ -16,7 +16,7 @@ function count_sal() {
   document.getElementById('result_с').innerHTML = c;
   document.getElementById('result_d').innerHTML = d;
   document.getElementById('result_e').innerHTML = e;
-	document.getElementById('result_f').innerHTML = e;  
+	document.getElementById('result_f').innerHTML = f;  
 
 
 
